@@ -10,9 +10,10 @@ section {
 
 .colors p {
     padding: 40px;
-    width: 60px;
+    width: 200px;
     height: 50px;
     display: inline-block;
+    margin: 40px;
 }
 
 #neutral { 
@@ -25,6 +26,7 @@ section {
 
 #teal {
     background-color:  #075a69;
+    color: white;
 }
 
 #black { 

@@ -71,9 +71,12 @@ button {
     background-color: #d18c03;
     color: #f6e9e0;
     font-size: 18px;
+    letter-spacing: 3px;
+    border: 10px solid #d18c03;
     padding: 10px;
 }
 
 button:hover {
-    background-color: #fcab0b
+    background-color: #fcab0b;
+    border: 12px solid #fcab0b;
 }

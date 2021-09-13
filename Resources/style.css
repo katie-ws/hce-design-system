@@ -72,6 +72,19 @@ section {
     color: white;
 }
 
+.oswald {
+    font-family: Oswald;
+    text-transform: uppercase;
+}
+
+.open-sans {
+    font-family: 'Open Sans';
+}
+
+.sans-serif {
+    font-family: sans-serif;
+}
+
 button {
     font-family: Oswald, Arial, sans-serif;
     text-transform: uppercase;
